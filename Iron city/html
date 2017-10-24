@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Peter Sifuentez</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+  <div id="page">
+    <body>
+  <div class="title-logo">
+
+    <section>
+        <div class="container container-style1">
+             <div class="title-logo">
+                 <div class="custom-title">Peter Sifuentez</div>
+
+             </div>
+        </div>
+    </section>
+
+        <ul class="nav"><div class="topnav">
+
+          <li><a href="#Info">Info</a></li>
+
+          </div>
+        </ul>
+
+
+
+  <div class="container container-style3">
+    <img src="https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjJ-DKKtampycxdg_ZoEpCv0Bz3alCW77_4Un_rJ-rwmPobtZEa9ajkQULyLeIKchOqgpXSQPIt7834jXjyRXCwNNg/messages/@.id==ACbFCmoAACSbWcm01A82iLFKGKA/content/parts/@.id==2.2/thumbnail?appId=YahooMailNeo&pid=2.2" style="width:200px;height:350px;"/>
+
+    <!--<div class="left">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslfq9GRNHZMW0RG0EVSv_KdAupUiwjEmx2fIElB9W92ekRAvG"/>
+    </div>-->
+
+
+            <div class="container container-style2">
+                  <div class="information">
+                    <div id="#Info"><div class="bio-header">Info</div></a>
+
+                    <p class="info">
+                      Welcome to my webpage, my name is Peter and I love to create websites. Besides coding I love to hike, go to the gym, and read.
+                    </p>
+
+                    <p class="info">
+                      /*New Web Developer *//* Self-Study Student */
+                    </p>
+
+                  </div>
+                </div>
+              </div>
+
+
+          <div class="container container-style2">
+            <div class="information">
+                <div class="bio-header"><h2>Portfolio</h2></div>
+                <p class="info">
+                    Coming soon
+                </p>
+            </div>
+
+          <div class="container container-style2">
+            <div class="information">
+                <div class="bio-header"><h2>Contact</h2></div>
+
+                <button class="btn btn-block btn-primary"><a href="https://github.com/Judoka4662">GitHub</a></button>
+
+                <button class="btn btn-block btn-primary"><a href="https://www.facebook.com/Elysium-LLC-735528926632900/">Facebook</a></button>
+
+                <button class="btn btn-block btn-primary"><a href="https://www.linkedin.com/in/petersifuentez/">Linkedin</a></button>
+
+                <p>
+                    If you have any questions feel free to view my social media or <button class="btn btn-block btn-primary"><a href="mailto:sifuentez_peter@yahoo.com">email</a></button> me.
+                </p>
+
+            </div>
+        </div>
+
+        <div class="container container-style2">
+          <div class="information">
+              <div class="bio-header"><a href="https://codepen.io/Judoka466/">Design by Peter Sifuentez</a></h2></div>
+          </div>
+        </div>
+
+
+        <div class="footer">
+            <p>
+                &copy; Peter Sifuentez 2017
+            </p>
+        </div>
+</div>
+    </body>
